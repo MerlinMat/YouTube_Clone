@@ -74,10 +74,7 @@ npm i cors
 
 #Run the Application Backend
 npm start
+
 #Run the application Frontend
+cd vite-project 
 npm run dev
-
-
-npm start
-
-Frontend cd vite-project npm run dev
