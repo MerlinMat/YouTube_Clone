@@ -1,0 +1,25 @@
+.scroll-wrapper {
+  display: flex;
+  justify-content: center; 
+}
+
+.hometop {
+  max-width: 800px; /* scrollbar length */
+  padding-bottom: 4px; /* space for scrollbar */
+}
+
+.hometop::-webkit-scrollbar {
+  height: 6px;
+}
+
+.hometop::-webkit-scrollbar-thumb {
+  background-color: #a0a0a0;
+  border-radius: 10px;
+}
+
+.hometop::-webkit-scrollbar-thumb:hover {
+  background-color: #707070;
+}
+
+
+
